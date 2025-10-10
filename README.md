@@ -123,4 +123,4 @@ AWG 2.0 can be built for a specific platform as follows:
 4) On the right, click the Run workflow button
 5) In the opened list, specify the OpenWRT version (for example, 24.10.3), a list of targets separated by commas (for example, stm32,ramips), a list of subtargets separated by commas (for example, stm32mp1,mt7621). The build will be performed only for existing target/subtarget pairs
 6) Click the green Run workflow button
-Building for one device will take about 10-15 minutes. A release with the specified OpenWRT version should be created
+Building for one device will take about 10-15 minutes. A release with the specified OpenWRT version should be created. "!"
