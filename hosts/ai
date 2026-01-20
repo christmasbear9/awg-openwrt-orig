@@ -1,20 +1,255 @@
-# AI Services (OpenAI, Google, Anthropic, etc)
-146.103.118.200 openai.com
-146.103.118.200 chatgpt.com
-146.103.118.200 oaistatic.com
-146.103.118.200 oaiusercontent.com
-146.103.118.200 anthropic.com
-146.103.118.200 claude.ai
-146.103.118.200 elevenlabs.io
-146.103.118.200 elevenreader.io
-146.103.118.200 grok.com
-146.103.118.200 x.ai
-146.103.118.200 sora.com
-146.103.118.200 aistudio.google.com
+# Google / Gemini
 146.103.118.200 gemini.google.com
-146.103.118.200 clients6.google.com
-146.103.118.200 withgoogle.com
+146.103.118.200 aistudio.google.com
 146.103.118.200 generativelanguage.googleapis.com
+146.103.118.200 aitestkitchen.withgoogle.com
 146.103.118.200 aisandbox-pa.googleapis.com
+146.103.118.200 webchannel-alkalimakersuite-pa.clients6.google.com
+146.103.118.200 alkalimakersuite-pa.clients6.google.com
 146.103.118.200 assistant-s3-pa.googleapis.com
 146.103.118.200 proactivebackend-pa.googleapis.com
+146.103.118.200 robinfrontend-pa.googleapis.com
+146.103.118.200 o.pki.goog
+146.103.118.200 labs.google
+146.103.118.200 notebooklm.google.com
+146.103.118.200 jules.google.com
+146.103.118.200 stitch.withgoogle.com
+
+# OpenAI
+146.103.118.200 chatgpt.com
+146.103.118.200 ab.chatgpt.com
+146.103.118.200 auth.openai.com
+146.103.118.200 auth0.openai.com
+146.103.118.200 platform.openai.com
+146.103.118.200 cdn.oaistatic.com
+146.103.118.200 files.oaiusercontent.com
+146.103.118.200 cdn.auth0.com
+146.103.118.200 tcr9i.chat.openai.com
+146.103.118.200 webrtc.chatgpt.com
+146.103.118.200 android.chat.openai.com
+146.103.118.200 api.openai.com
+146.103.118.200 operator.chatgpt.com
+146.103.118.200 sora.chatgpt.com
+146.103.118.200 sora.com
+146.103.118.200 videos.openai.com
+146.103.118.200 ios.chat.openai.com
+
+# Microsoft
+146.103.118.200 copilot.microsoft.com
+146.103.118.200 sydney.bing.com
+146.103.118.200 edgeservices.bing.com
+146.103.118.200 rewards.bing.com
+146.103.118.200 xsts.auth.xboxlive.com
+146.103.118.200 xgpuwebf2p.gssv-play-prod.xboxlive.com
+146.103.118.200 xgpuweb.gssv-play-prod.xboxlive.com
+
+# Spotify
+146.103.118.200 api.spotify.com
+146.103.118.200 login5.spotify.com
+146.103.118.200 encore.scdn.co
+146.103.118.200 gew1-spclient.spotify.com
+146.103.118.200 spclient.wg.spotify.com
+146.103.118.200 api-partner.spotify.com
+146.103.118.200 aet.spotify.com
+146.103.118.200 www.spotify.com
+146.103.118.200 accounts.spotify.com
+146.103.118.200 open.spotify.com
+146.103.118.200 accounts.scdn.co
+146.103.118.200 gew1-dealer.spotify.com
+146.103.118.200 open-exp.spotifycdn.com
+146.103.118.200 www-growth.scdn.co
+
+# GitHub Copilot
+146.103.118.200 api.github.com
+146.103.118.200 api.individual.githubcopilot.com
+146.103.118.200 proxy.individual.githubcopilot.com
+
+# JetBrains
+146.103.118.200 datalore.jetbrains.com
+146.103.118.200 plugins.jetbrains.com
+146.103.118.200 download.jetbrains.com
+146.103.118.200 api.jetbrains.ai
+146.103.118.200 account.jetbrains.com
+
+# ElevenLabs
+146.103.118.200 elevenlabs.io
+146.103.118.200 api.us.elevenlabs.io
+146.103.118.200 elevenreader.io
+146.103.118.200 api.elevenlabs.io
+146.103.118.200 help.elevenlabs.io
+
+# Grok
+146.103.118.200 grok.com
+146.103.118.200 accounts.x.ai
+146.103.118.200 assets.grok.com
+
+# Tidal
+146.103.118.200 api.tidal.com
+146.103.118.200 listen.tidal.com
+146.103.118.200 login.tidal.com
+146.103.118.200 auth.tidal.com
+146.103.118.200 link.tidal.com
+146.103.118.200 dd.tidal.com
+146.103.118.200 resources.tidal.com
+146.103.118.200 images.tidal.com
+146.103.118.200 fsu.fa.tidal.com
+146.103.118.200 geolocation.onetrust.com
+146.103.118.200 api.squareup.com
+146.103.118.200 api-global.squareup.com
+
+# Supercell
+146.103.118.200 cdn.id.supercell.com
+146.103.118.200 security.id.supercell.com
+146.103.118.200 accounts.supercell.com
+146.103.118.200 game-assets.clashroyaleapp.com
+146.103.118.200 game-assets.clashofclans.com
+146.103.118.200 clashofclans.inbox.supercell.com
+146.103.118.200 game-assets.brawlstarsgame.com
+146.103.118.200 store.supercell.com
+
+# DeepL
+146.103.118.200 deepl.com
+146.103.118.200 www.deepl.com
+146.103.118.200 www2.deepl.com
+146.103.118.200 login-wall.deepl.com
+146.103.118.200 w.deepl.com
+146.103.118.200 s.deepl.com
+146.103.118.200 dict.deepl.com
+146.103.118.200 ita-free.www.deepl.com
+146.103.118.200 write-free.www.deepl.com
+146.103.118.200 experimentation.deepl.com
+146.103.118.200 experimentation-grpc.deepl.com
+146.103.118.200 ita-free.app.deepl.com
+146.103.118.200 shield.deepl.com
+146.103.118.200 ott.deepl.com
+146.103.118.200 api-free.deepl.com
+146.103.118.200 backend.deepl.com
+146.103.118.200 clearance.deepl.com
+146.103.118.200 errortracking.deepl.com
+146.103.118.200 auth.deepl.com
+146.103.118.200 oneshot-free.www.deepl.com
+146.103.118.200 checkout.www.deepl.com
+146.103.118.200 gtm.deepl.com
+
+# Deezer
+146.103.118.200 deezer.com
+146.103.118.200 www.deezer.com
+146.103.118.200 payment.deezer.com
+
+# Weather.com
+146.103.118.200 weather.com
+146.103.118.200 upsx.weather.com
+
+# Fitbit
+146.103.118.200 api.fitbit.com
+146.103.118.200 fitbit-pa.googleapis.com
+146.103.118.200 fitbitvestibuleshim-pa.googleapis.com
+146.103.118.200 fitbit.google.com
+
+# Claude
+146.103.118.200 claude.ai
+146.103.118.200 console.anthropic.com
+146.103.118.200 api.anthropic.com
+
+# Trae.ai
+146.103.118.200 trae-api-sg.mchost.guru
+146.103.118.200 api.trae.ai
+146.103.118.200 api-sg-central.trae.ai
+146.103.118.200 api16-normal-alisg.mchost.guru
+
+# Linear.app
+146.103.118.200 linear.app
+146.103.118.200 client-api.linear.app
+146.103.118.200 static.linear.app
+146.103.118.200 constellation.linear.app
+146.103.118.200 uploads.linear.app
+146.103.118.200 public.linear.app
+146.103.118.200 s.linear.app
+
+# Windsurf
+146.103.118.200 windsurf.com
+146.103.118.200 codeium.com
+146.103.118.200 server.codeium.com
+146.103.118.200 web-backend.codeium.com
+146.103.118.200 unleash.codeium.com
+146.103.118.200 inference.codeium.com
+146.103.118.200 windsurf-stable.codeium.com
+146.103.118.200 windsurf-telemetry.codeium.com
+146.103.118.200 marketplace.windsurf.com
+
+# Twitch
+146.103.118.200 usher.ttvnw.net
+146.103.118.200 gql.twitch.tv
+
+# Manus
+146.103.118.200 manus.im
+146.103.118.200 api.manus.im
+
+# Notion
+146.103.118.200 www.notion.so
+146.103.118.200 calendar.notion.so
+
+# Canva
+146.103.118.200 www.canva.com
+146.103.118.200 content-management-files.canva.com
+146.103.118.200 static.canva.com
+
+# Intel
+146.103.118.200 www.intel.com
+
+# Dell
+146.103.118.200 www.dell.com
+
+# TikTok
+146.103.118.200 www.tiktok.com
+
+# Archive.org
+146.103.118.200 web.archive.org
+
+# NVIDIA
+146.103.118.200 developer.nvidia.com
+
+# Parsec
+146.103.118.200 builds.parsec.app
+
+# Tria.ge
+146.103.118.200 tria.ge
+
+# Qwant
+146.103.118.200 www.qwant.com
+
+# Guidedhacking
+146.103.118.200 guidedhacking.com
+
+# Framer
+146.103.118.200 framer.com
+
+# Autodesk
+146.103.118.200 accounts.autodesk.com
+146.103.118.200 www.autodesk.com
+
+# Pump.fun
+146.103.118.200 pump.fun
+146.103.118.200 frontend-api-v3.pump.fun
+146.103.118.200 images.pump.fun
+146.103.118.200 swap-api.pump.fun
+
+# Truth Social
+146.103.118.200 truthsocial.com
+146.103.118.200 static-assets-1.truthsocial.com
+
+# Elgato
+146.103.118.200 www.elgato.com
+
+# Imgur
+146.103.118.200 api.imgur.com
+
+# Dyson
+146.103.118.200 dyson.com
+
+# Broadcom
+146.103.118.200 profile.broadcom.com
+
+# Patreon
+146.103.118.200 patreon.com
+146.103.118.200 www.patreon.com
