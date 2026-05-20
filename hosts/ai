@@ -33,6 +33,8 @@
 146.103.118.200 sora.com
 146.103.118.200 videos.openai.com
 146.103.118.200 ios.chat.openai.com
+146.103.118.200 cdn.platform.openai.com
+146.103.118.200 developers.openai.com
 
 # Microsoft
 146.103.118.200 copilot.microsoft.com
@@ -130,6 +132,7 @@
 146.103.118.200 oneshot-free.www.deepl.com
 146.103.118.200 checkout.www.deepl.com
 146.103.118.200 gtm.deepl.com
+146.103.118.200 voice-proxy.www.deepl.com
 
 # Deezer
 146.103.118.200 deezer.com
@@ -148,8 +151,12 @@
 
 # Claude
 146.103.118.200 claude.ai
+146.103.118.200 anthropic.com
+146.103.118.200 claudeusercontent.com
 146.103.118.200 console.anthropic.com
 146.103.118.200 api.anthropic.com
+146.103.118.200 platform.claude.com
+146.103.118.200 a.claude.ai
 
 # Trae.ai
 146.103.118.200 trae-api-sg.mchost.guru
